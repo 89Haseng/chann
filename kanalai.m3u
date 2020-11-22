@@ -23,6 +23,25 @@ http://45.145.32.15:20004/info_tv/video.m3u8
 http://45.145.32.15:20004/delfi_tv/video.m3u8
 #EXTINF:-1,2TV
 http://45.145.32.15:20004/2tv/video.m3u8
-#EXTINF:-1,Первый канал HD
-http://cdn.itvago.com/PerviyHD/video.m3u8?token=8AF7B7F5FDC3A
-
+#EXTINF:-1,Investigation Discovery HD
+http://cdn.itvago.com/204/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,Discovery Science HD
+http://cdn.itvago.com/205/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,DTX HD
+http://cdn.itvago.com/206/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,History 2 HD
+http://cdn.itvago.com/207/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,Viasat History HD
+http://cdn.itvago.com/208/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,Travel + Adventure HD
+http://cdn.itvago.com/209/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,Love Nature 4K
+http://cdn.itvago.com/210/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,Моя Планета HD
+http://cdn.itvago.com/211/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,Живая Природа HD
+http://cdn.itvago.com/212/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,Nano TV HD
+http://cdn.itvago.com/213/video.m3u8?token=8AF7B7F5FDC3A
+#EXTINF:-1,Морской HD
+http://cdn.itvago.com/214/video.m3u8?token=8AF7B7F5FDC3A
